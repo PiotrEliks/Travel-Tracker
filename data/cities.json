@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "id": "ece0",
+      "cityName": "Warsaw",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2024-03-12T09:19:18.000Z",
+      "notes": "",
+      "position": {
+        "lat": "52.22864058406609",
+        "lng": "21.008605957031254"
+      }
+    },
+    {
+      "id": "342f",
+      "cityName": "Kingston",
+      "country": "Jamaica",
+      "emoji": "🇯🇲",
+      "date": "2023-08-16T08:19:54.000Z",
+      "notes": "",
+      "position": {
+        "lat": "17.97938621174613",
+        "lng": "-76.79718017578126"
+      }
+    }
+  ]
+}
